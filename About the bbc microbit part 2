@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>About the BBC microbit part 2</title>
+<style>
+        body{
+            
+             background-color:(0, 255, 30);
+        }
+            
+        p{
+            
+           color: rgb(0, 255, 30) 
+        }          
+        
+        h1{
+            
+            color:rgb(85, 255, 0);
+        }    
+        </style>
+        </head>
+        <body>
+        <h1>how to get started with the BBC microbit</h1>
+        <p>In my last website I had wrote what the <a target="_blank" href="https://abinnovator.github.io/About%20BBC%20microbit.html">microbit</a> is,In this website I will tell how<br>to code the Microbit.
+        <h2>How to code the microbit on computer</h2>
+        First GO to the <aṁ target="blank_ href="https://makecode.microbit.org/">editor</a>.Then you go through the tutoriols or just start your own project by clicking on new<br>ject<br> and give it a name.<br>
+        After you are done with that connect the microbit to your pc and <a target="_blank" href="https://microbit.org/get-started/user-guide/web-usb/">click on this link for the tutoriul<a>.<br>
+        After you are reading all of the things you can start making your new project.Make sure you see my next website to learn more about the microbit</p>
+/p      </body>
+        </html>
+        
+        
+        
+        
+        
+        
+        
+         
+        
