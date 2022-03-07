@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Birthday</title>
+<meta charset="utf-8">
+<style>
+        body{
+            
+             background-color:(0, 255, 30);
+        }
+            
+       
+        h1{
+            
+            color:rgb(85, 255, 0);
+        }    
+		#USERNAME{
+		
+		}
+        </style>
+        </head>
+		<body>
+ <%#Ask user for name
+
+name=input("What is your name?:")
+string="Happy Birthday to you
+Happy birthday to you"
+output=string.format(name)
+#Print output to screen
+print(output)%>
+  
+</form> 
